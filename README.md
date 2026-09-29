@@ -10,4 +10,4 @@ Click **Save transcript** in the React page. The page sends the text to FastAPI,
 4. Copy `web/.env.example` to `web/.env`. In `web/`, run `npm ci`, then `npm run dev`.
 5. Open <http://localhost:3000> and save the sample transcript.
 
-The real `.env` files stay out of Git. The API creates the `transcripts` table when it starts.
+The API creates the `transcripts` table when it starts.
