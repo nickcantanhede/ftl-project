@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+.idea/
+.env
+**/.env
+**/.env.local
+**/__pycache__/
+**/.pytest_cache/
+**/.venv/
+**/*.py[cod]
+web/node_modules/
+web/dist/
+api/.coverage

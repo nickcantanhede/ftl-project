@@ -1,0 +1,12 @@
+:root {
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  color: #202839;
+  background: #f8fafc;
+  font-synthesis: none;
+}
+
+body { margin: 0; }
+h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.15; margin: 8px 0 12px; }
+h2 { margin-top: 0; }
+p { margin-bottom: 0; }
